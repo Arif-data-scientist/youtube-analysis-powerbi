@@ -23,6 +23,10 @@ This project focuses on analyzing YouTube channel data using Power BI to underst
 ## 📷 Dashboard Preview
 ![Dashboard](youtube-dashboard.png)
 
+## 📥 Download Dashboard
+Click below to download the Power BI file:
+[Download PBIX](youtube power bi.pbix)
+
 ## 🎯 Outcome
 This project helps in understanding YouTube channel performance and provides insights that can be used to improve content strategy and audience engagement.
 
