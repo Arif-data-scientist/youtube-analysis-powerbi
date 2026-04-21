@@ -21,7 +21,7 @@ This project focuses on analyzing YouTube channel data using Power BI to underst
 - KPI indicators for quick insights
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard](youtube-dashboard.png)
 
 ## 🎯 Outcome
 This project helps in understanding YouTube channel performance and provides insights that can be used to improve content strategy and audience engagement.
